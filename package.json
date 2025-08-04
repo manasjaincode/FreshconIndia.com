@@ -1,0 +1,27 @@
+{
+  "name": "freshcon",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@aws-sdk/client-dynamodb": "^3.650.0",
+    "@aws-sdk/client-ses": "^3.650.0",
+    "@aws-sdk/lib-dynamodb": "^3.650.0",
+    "jquery": "^3.6.4",
+    "next": "14.2.5",
+    "react": "^18",
+    "react-dom": "^18",
+    "swiper": "^11.0.5"
+  },
+  "devDependencies": {
+    "eslint": "^8",
+    "eslint-config-next": "^0.2.4",
+    "postcss": "^8",
+    "tailwindcss": "^3.2.0"
+  }
+}
