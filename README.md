@@ -13,15 +13,15 @@ Keeping in mind hectic modern lifestyles and wellness needs, Freshcon India brin
 
 ✨ Fresh Ingredients, No Preservatives: Farm-picked, clean-label products with zero compromise.
 
-🛠️ Key Functionalities
-User authentication and customer dashboard
+🛠️ Key Functionalities include :
+1. User authentication and customer dashboard
 
-Product listing with real-time updates
+2. Product listing with real-time updates
 
-Shopping cart and payment-ready checkout
+3. Shopping cart and payment-ready checkout
 
-Admin dashboard to manage inventory and orders
+4. Admin dashboard to manage inventory and orders
 
-Mobile-optimized, fast-loading UI
+5. Mobile-optimized, fast-loading UI
 
-API-driven architecture for scalability
+6. API-driven architecture for scalability
